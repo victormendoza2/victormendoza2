@@ -1,6 +1,6 @@
 ## Ing. Victor Enrique Mendoza Astopilco
 
-Especialista SIG en la Subgerencia de Acondicionamiento Territorial - GORECAJ
+Especialista SIG en la [Subgerencia de Acondicionamiento Territorial](https://zeeot.regioncajamarca.gob.pe/node/588) - GORECAJ
 
 Evaluador de Riesgo Originado por Fenómenos Naturales
 090-2022-CENEPRED/J
