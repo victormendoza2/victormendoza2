@@ -1,3 +1,15 @@
+## Ing. Victor Enrique Mendoza Astopilco
+
+Especialista SIG en la Subgerencia de Acondicionamiento Territorial - GORECAJ
+
+Evaluador de Riesgo Originado por Fenómenos Naturales
+090-2022-CENEPRED/J
+
+Operador RPAS – 06462
+
+Docente universitario UPN - Ing. Ambiental
+
+
 ### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
