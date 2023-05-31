@@ -9,6 +9,14 @@ Operador RPAS – 06462
 
 Docente universitario [UPN](https://www.upn.edu.pe/carrera/ingenieria-ambiental) - Ing. Ambiental
 
+### Estudios
+* Docencia Universitaria y Gestión Educativa - USP (2019)
+* Curso Evaluación del Riesgo de Desastres Originados por Fenómenos Naturales - UNJ (2021)
+* Diplomado en Geomática Aplicada a la Salud - Instituto Gulich (2020-2021)
+* Diplomado en SIG Aplicado a Estudios Ambientales, Recursos Naturales, Urbanos y Territoriales - Instituto Profesional Ordenamiento Territorial y Desarrollo Sostenible (2015)
+* Diplomado en Experto en Creación de Modelos de Simulación Ambiental (2014)
+* Diplomado en Gestión Integral de Recursos Hídricos - UNALM (2007-2008)
+* Ingeniero Forestal - UNC (2000)
 
 ### Hi there 👋
 - 🔭 I’m currently working on ...
