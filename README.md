@@ -18,7 +18,7 @@ Docente universitario [UPN](https://www.upn.edu.pe/carrera/ingenieria-ambiental)
 * **Diplomado** _en Gestión Integral de Recursos Hídricos - UNALM (2007-2008)_
 * **Ingeniero Forestal** - _UNC (2000)_
 
-    ![](https://www.geoaplicada.com/wp-content/uploads/2018/02/softwares-sigs-gratuitos.png)
+    ![](https://pbs.twimg.com/media/EgYASsTXkAEggxz.jpg)
 ### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
