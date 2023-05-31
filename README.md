@@ -18,6 +18,7 @@ Docente universitario [UPN](https://www.upn.edu.pe/carrera/ingenieria-ambiental)
 * **Diplomado** _en Gestión Integral de Recursos Hídricos - UNALM (2007-2008)_
 * **Ingeniero Forestal** - _UNC (2000)_
 
+    ![](https://www.geofumadas.com/wp-content/uploads/2019/11/curso-de-arcgis-y-qgis.jpg)
 ### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
