@@ -20,15 +20,15 @@ Docente universitario [UPN](https://www.upn.edu.pe/carrera/ingenieria-ambiental)
 
 
 ### Experiencia laboral
-* Esp. Sistemas de Información Geográfica - _**_GORECAJ – Acondicionamiento territorial_**_ (2019 hasta la fecha)
-* Consultor SIG - _**CEDEPAS**_ 
-* Diseñador CAD y SIG - _**Municipalidad Provincial de Cajamarca-PDU**_ 2016
-* Consultor – Especialista Inventario – SIG / _**B&S Consultores Ambientales y Servicios Múltiples EIRL**_
-* Consultor SIG / _**Municipalidad Provincial de Cajamarca – Gerencia de Vialidad y Transporte Urbano**__
-* Operador SIG / _**Asociación Civil  para la Investigación y Desarrollo Forestal ADEFOR**_ 
-* Especialista SIG / _**Municipalidad Provincial de Cajamarca – Gerencia de Desarrollo Territorial – Subgerencia de Catastro Urbano**_
-* Especialista SIG / _**Fondo de Crédito para el Desarrollo Forestal - FONCREAGRO**_ 
-* Consultor SIG / _**CARE – PERÚ**_
+* _**Esp. Sistemas de Información Geográfica**_ / GORECAJ – Acondicionamiento territorial_ (2019 hasta la fecha)
+* _**Consultor SIG**_ - CEDEPAS 
+* _**Diseñador CAD y SIG**_ / Municipalidad Provincial de Cajamarca-PDU 2016
+* _**Consultor – Especialista Inventario – SIG**_ / B&S Consultores Ambientales y Servicios Múltiples EIRL
+* _**Consultor SIG**_ / Municipalidad Provincial de Cajamarca – Gerencia de Vialidad y Transporte Urbano
+* _**Operador SIG**_ / Asociación Civil  para la Investigación y Desarrollo Forestal ADEFOR
+* _**Especialista SIG**_ / Municipalidad Provincial de Cajamarca – Gerencia de Desarrollo Territorial – Subgerencia de Catastro Urbano
+* _**Especialista SIG**_ / Fondo de Crédito para el Desarrollo Forestal - FONCREAGRO
+* _**Consultor SIG**_ / CARE – PERÚ
 
 
 
