@@ -31,6 +31,8 @@ Docente universitario [UPN](https://www.upn.edu.pe/carrera/ingenieria-ambiental)
 * _**Consultor SIG**_ / CARE – PERÚ
 * _**Docente Universitario**_ / UPAGU - UPN
 
+hdihdowo
+
 
 <!--
 **victormendoza2/victormendoza2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
