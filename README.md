@@ -29,7 +29,7 @@ Docente universitario [UPN](https://www.upn.edu.pe/carrera/ingenieria-ambiental)
 * _**Especialista SIG**_ / Municipalidad Provincial de Cajamarca – Gerencia de Desarrollo Territorial – Subgerencia de Catastro Urbano
 * _**Especialista SIG**_ / Fondo de Crédito para el Desarrollo Forestal - FONCREAGRO
 * _**Consultor SIG**_ / CARE – PERÚ
-
+* _**Docente Universitario**_ / UPAGU - UPN
 
 
 <!--
