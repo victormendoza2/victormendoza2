@@ -31,7 +31,7 @@ Docente universitario [UPN](https://www.upn.edu.pe/carrera/ingenieria-ambiental)
 * _**Consultor SIG**_ / CARE – PERÚ
 * _**Docente Universitario**_ / UPAGU - UPN
 
-hdihdowo
+
 
 
 <!--
