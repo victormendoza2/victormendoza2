@@ -20,7 +20,7 @@ Docente universitario [UPN](https://www.upn.edu.pe/carrera/ingenieria-ambiental)
 
 
 ### Experiencia laboral
-* _**Esp. en Gestión del Catastro Forestal Programa Bosques Productivos Sostenibles**_ / BPS - SERFOR (2025-2026)
+* _**Esp. Gestión del Catastro Forestal Programa Bosques Productivos Sostenibles**_ / BPS - SERFOR (2025-2026)
 * _**Esp. Sistemas de Información Geográfica**_ / GORECAJ – Acondicionamiento territorial_ (2019 hasta la fecha)
 * _**Consultor SIG**_ - CEDEPAS 
 * _**Diseñador CAD y SIG**_ / Municipalidad Provincial de Cajamarca-PDU 2016
