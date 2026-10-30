@@ -7,8 +7,6 @@ Evaluador de Riesgo Originado por Fenómenos Naturales
 
 Operador RPAS – 06462
 
-Docente universitario [UPN](https://www.upn.edu.pe/carrera/ingenieria-ambiental) - Ing. Ambiental
-
 ### Estudios
 * **Maestría** _en Docencia Universitaria y Gestión Educativa - USP (2019)_
 * **Curso** _Evaluación del Riesgo de Desastres Originados por Fenómenos Naturales - UNJ (2021)_
